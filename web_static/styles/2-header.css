@@ -1,6 +1,13 @@
 header {
+    background-image: url("images/favlogo.png");
     top: 0;
-    background-color: #FF0000;
     height: 70px;
     width: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+    border-bottom-width: 1px;
+}
+
+header img{
+    float: left;
 }
