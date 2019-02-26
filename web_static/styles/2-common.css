@@ -1,0 +1,10 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+div {
+    text-alignment: center;
+    vertical-alignment: middle;
+    line-height: 60px;
+}
