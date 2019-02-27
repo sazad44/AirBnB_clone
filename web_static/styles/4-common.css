@@ -13,11 +13,10 @@ p {
 }
 
 .container {
-    dispaly: block;
+    display: block;
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
