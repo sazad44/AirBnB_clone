@@ -15,7 +15,7 @@
     border: solid 1px #FF5A5F;
     border-radius: 4px;
     display: inline-block;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 
 .places-1 {
@@ -29,7 +29,7 @@
 }
 
 .places-3 {
-    top: 762px;
+    top: 860px;
     left: 450px;
 }
 
@@ -101,41 +101,60 @@
 
 .places .amenities {
     margin-top: 40px;
+    display: inline-block;
+    padding: 0;
+    width: 100%;
 }
 
 .places .amenities h2 {
     font-size: 16px;
-    border-bottom: solid 1px #DDDDDD
+    border-bottom: solid 1px #DDDDDD;
+    text-align: left;
 }
 
 .places .amenities li {
     list-style: none;
+    margin-top: -45px;
+    position: relative;
+    left: -40px;
+    top: 20px;
 }
 
 .pet-friendly {
-
+    background: url("../images/icon_pets.png") no-repeat;
+    padding: 35px 55px;
+    background-position-y: 15px;
 }
 
 .TV {
-
+    background: url("../images/icon_tv.png") no-repeat;
+    padding: 35px 55px;
+    background-position-y: 15px;
 }
 
 .Wifi {
-
+    background: url("../images/icon_wifi.png") no-repeat;
+    padding: 35px 55px;
+    background-position-y: 15px;
 }
 
 .places .reviews {
     margin-top: 40px;
+    display: inline-block;
 }
 
 .places .reviews h2 {
     font-size: 16px;
     border-bottom: solid 1px #DDDDDD;
+    text-align: left;
 }
 
 .places .reviews li{
     list-style: none;
-
+    position: relative;
+    left: -40px;
+    top: -25px;
+    margin-top: 36px;
 }
 
 .places .reviews li h3 {
