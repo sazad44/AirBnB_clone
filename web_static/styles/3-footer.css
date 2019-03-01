@@ -1,7 +1,7 @@
 footer {
     background-color: white;
     position: absolute;
-    bottom: 0;
+    bottom: -1000px;
     height: 60px;
     width: 100%;
     border-top-style: solid;
