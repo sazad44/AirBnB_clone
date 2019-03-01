@@ -15,22 +15,22 @@
     border: solid 1px #FF5A5F;
     border-radius: 4px;
     display: inline-block;
-    padding-bottom: 40px;
+    padding-bottom: 15px;
 }
 
 .places-1 {
     top: 221px;
-    left: 195px;
+    left: 244px;
 }
 
 .places-2 {
     top: 221px;
-    right: 175px;
+    right: 205px;
 }
 
 .places-3 {
-    top: 860px;
-    left: 450px;
+    top: 890px;
+    left: 510px;
 }
 
 .places h2 {
