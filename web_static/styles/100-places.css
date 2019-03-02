@@ -8,7 +8,7 @@
 }
 
 .places article {
-    position: absolute;
+    position: relative;
     width: 390px;
     padding: 20px;
     margin: 20px;
@@ -19,18 +19,18 @@
 }
 
 .places-1 {
-    top: 221px;
-    left: 244px;
+    top: 67px;
+    left: -92px;
 }
 
 .places-2 {
-    top: 221px;
-    right: 205px;
+    top: -661px;
+    right: -477px;
 }
 
 .places-3 {
-    top: 990px;
-    left: 510px;
+    top: 96px;
+    left: -229px;
 }
 
 .places h2 {
